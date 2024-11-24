@@ -33,9 +33,9 @@ To get a local copy up and running, follow these steps.
    cd wordplayer
    ```
 2. **Open in Android Studio**:
-- Open Android Studio, click on "Open an existing project," and select the cloned repository.
+  - Open Android Studio, click on "Open an existing project," and select the cloned repository.
 3. **Build the project**:
-- Sync Gradle and run the app on an emulator or physical device.
+  - Sync Gradle and run the app on an emulator or physical device.
 
 ### Usage
 - Launch the app and start a new game.
@@ -72,7 +72,7 @@ To get a local copy up and running, follow these steps.
     "game",
     "kotlin",
     "android"
-  ]
+    ]
   }
   ```
 
